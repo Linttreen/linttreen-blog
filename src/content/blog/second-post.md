@@ -25,5 +25,8 @@ Além de sua aplicação artística, a programação criativa tem também um pap
 <br>
 
 Existem diversas ferramentas para os mais variados tipos de programação criativa, podendo eles gerarem outputs visuais (Processing, p5.js, OpenFrameworks), musicais (Max/MSP) ou até mesmo instalações digitais ao vivo (TouchDesigner). <br>
-Para aqueles que estão começando, Processing e p5.js oferecem uma base sólida para explorar a programação criativa. Essas ferramentas são acessíveis e possuem comunidades ativas, facilitando o aprendizado e a troca de ideias. À medida que você avança, plataformas mais complexas como OpenFrameworks, Max/MSP e TouchDesigner podem ser exploradas, permitindo criações cada vez mais sofisticadas.
+Para aqueles que estão começando, Processing e p5.js oferecem uma base sólida para explorar a programação criativa. Essas ferramentas são acessíveis e possuem comunidades ativas, facilitando o aprendizado e a troca de ideias. 
+À medida que você avança, plataformas mais complexas como OpenFrameworks, Max/MSP e TouchDesigner podem ser exploradas, permitindo criações cada vez mais sofisticadas.
+
+<br><br>
 A programação criativa é um campo onde a tecnologia encontra a arte, abrindo infinitas possibilidades para a expressão individual. Com dedicação e curiosidade, qualquer um pode transformar suas ideias em realidade, explorando novos territórios de criatividade e inovação. Seja para criar obras de arte digital, composições musicais ou experiências interativas, o poder da programação está à sua disposição para dar vida às suas visões mais ousadas.
