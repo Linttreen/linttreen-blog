@@ -15,7 +15,7 @@ A programação criativa é uma tela em branco para todos aqueles que têm inter
 A programação criativa permite expressar ideias artísticas e inovadoras por meio do código, transformando conceitos abstratos em obras interativas, visuais e sonoras. Ela oferece a programadores e artistas a oportunidade de explorar novas formas de criação, transcendendo as funções utilitárias do software tradicional.
 Além de sua aplicação artística, a programação criativa tem também um papel prático significativo. Ela pode melhorar a experiência do usuário (UX) em ambientes web, por meio de animações e interações que tornam a navegação mais intuitiva e envolvente. Além disso, facilita a visualização de dados complexos, convertendo informações difíceis de compreender em representações visuais atraentes e claras, o que aprimora tanto a compreensão quanto a análise desses dados.
 
-<br><br>
+<br>
 
 <h8>Para começar, é necessário entender alguns conceitos chaves: </h8>
 - Algoritmos Criativos: Utilização de algoritmos para gerar padrões, formas e comportamentos visuais. Por exemplo, algoritmos como Perlin Noise ou algoritmos de fractais podem criar padrões visuais interessantes e complexos.
@@ -28,5 +28,5 @@ Existem diversas ferramentas para os mais variados tipos de programação criati
 Para aqueles que estão começando, Processing e p5.js oferecem uma base sólida para explorar a programação criativa. Essas ferramentas são acessíveis e possuem comunidades ativas, facilitando o aprendizado e a troca de ideias. 
 À medida que você avança, plataformas mais complexas como OpenFrameworks, Max/MSP e TouchDesigner podem ser exploradas, permitindo criações cada vez mais sofisticadas.
 
-<br><br>
+<br>
 A programação criativa é um campo onde a tecnologia encontra a arte, abrindo infinitas possibilidades para a expressão individual. Com dedicação e curiosidade, qualquer um pode transformar suas ideias em realidade, explorando novos territórios de criatividade e inovação. Seja para criar obras de arte digital, composições musicais ou experiências interativas, o poder da programação está à sua disposição para dar vida às suas visões mais ousadas.
