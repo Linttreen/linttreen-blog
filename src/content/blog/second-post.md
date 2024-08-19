@@ -13,7 +13,8 @@ A programação criativa é uma tela em branco para todos aqueles que têm inter
 A programação criativa permite expressar ideias artísticas e inovadoras por meio do código, transformando conceitos abstratos em obras interativas, visuais e sonoras. Ela oferece a programadores e artistas a oportunidade de explorar novas formas de criação, transcendendo as funções utilitárias do software tradicional.
 Além de sua aplicação artística, a programação criativa tem também um papel prático significativo. Ela pode melhorar a experiência do usuário (UX) em ambientes web, por meio de animações e interações que tornam a navegação mais intuitiva e envolvente. Além disso, facilita a visualização de dados complexos, convertendo informações difíceis de compreender em representações visuais atraentes e claras, o que aprimora tanto a compreensão quanto a análise desses dados.
 
-<h8>Para começar, é necessário entender alguns conceitos chaves: </h8>
+
+<h6>Para começar, é necessário entender alguns conceitos chaves: </h6>
 - Algoritmos Criativos: Utilização de algoritmos para gerar padrões, formas e comportamentos visuais. Por exemplo, algoritmos como Perlin Noise ou algoritmos de fractais podem criar padrões visuais interessantes e complexos.
 - Programação Generativa: Refere-se à criação de arte ou gráficos que são gerados dinamicamente pelo código. Nesse contexto, o programador define as regras e os parâmetros, e o sistema executa a criação, permitindo resultados inesperados e muitas vezes surpreendentes.
 - Conceitos básicos de programação: Antes de mergulhar na programação criativa, é crucial dominar conceitos básicos como loops, condicionais e funções. Esses elementos são a base para qualquer projeto criativo, permitindo a construção de estruturas complexas e interativas.
