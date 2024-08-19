@@ -11,7 +11,7 @@ A programação criativa é uma tela em branco para todos aqueles que têm inter
 <br><br>
 <h4>Tá, mas para que serve?</h4>
 A programação criativa permite expressar ideias artísticas e inovadoras por meio do código, transformando conceitos abstratos em obras interativas, visuais e sonoras. Ela oferece a programadores e artistas a oportunidade de explorar novas formas de criação, transcendendo as funções utilitárias do software tradicional.
-Além de sua aplicação artística, a programação criativa tem também um papel prático significativo. Ela pode melhorar a experiência do usuário (UX) em ambientes web, por meio de animações e interações que tornam a navegação mais intuitiva e envolvente. Além disso, facilita a visualização de dados complexos, convertendo informações difíceis de compreender em representações visuais atraentes e claras, o que aprimora tanto a compreensão quanto a análise desses dados.
+Além de sua aplicação artística, a programação criativa tem também um papel prático significativo. Ela pode melhorar a experiência do usuário (UX) em ambientes web, por meio de animações e interações que tornam a navegação mais intuitiva e envolvente. Além disso, facilita a visualização de dados complexos, convertendo informações difíceis de compreender em representações visuais atraentes e claras, o que aprimora tanto a compreensão quanto a análise desses dados.<br>
 
 
 <h4>Para começar, é necessário entender alguns conceitos chaves: </h4>
