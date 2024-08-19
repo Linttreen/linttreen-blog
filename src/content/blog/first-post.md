@@ -5,13 +5,13 @@ pubDate: 'Ago 19 2024'
 heroImage: '/post1.png'
 ---
 
-Afinal, o que é Design Thinking?
+<h4>Afinal, o que é Design Thinking?</h4>
 Design Thinking é uma abordagem para a resolução de problemas que se destaca por enfatizar a compreensão profunda das necessidades dos usuários, promover a colaboração multidisciplinar e incentivar a experimentação criativa. O objetivo central do Design Thinking é criar soluções inovadoras e eficazes, colocando o usuário no centro do processo de design. Ao adotar uma perspectiva centrada no ser humano, o Design Thinking se diferencia por adotar um processo cíclico e não linear. Em vez de seguir um caminho fixo para a solução de problemas, ele se baseia em ciclos contínuos de prototipagem, testes e feedback dos usuários.
 
 A experiência do usuário (UX) é fundamental nesse modelo, pois o sucesso de qualquer solução depende diretamente de como ela atende às necessidades e expectativas do usuário final.
 
 
-Design Thinking no Desenvolvimento de Software
+<h4>Design Thinking no Desenvolvimento de Software</h4>
 No contexto do desenvolvimento de software, a aplicação do Design Thinking é cada vez mais relevante e benéfica. A integração desse método promove uma colaboração mais eficaz entre desenvolvedores e usuários, garantindo que as soluções desenvolvidas realmente atendam às necessidades dos usuários. Esse processo estimula a inovação, ao mesmo tempo em que ajuda a criar soluções que são não apenas funcionais, mas também verdadeiramente impactantes.
 
 Ao incorporar o Design Thinking no desenvolvimento de software, as equipes podem transformar seus projetos de várias maneiras:
