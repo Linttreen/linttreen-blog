@@ -15,6 +15,7 @@ Além de sua aplicação artística, a programação criativa tem também um pap
 
 
 <h4>Para começar, é necessário entender alguns conceitos chaves: </h4>
+
 - Algoritmos Criativos: Utilização de algoritmos para gerar padrões, formas e comportamentos visuais. Por exemplo, algoritmos como Perlin Noise ou algoritmos de fractais podem criar padrões visuais interessantes e complexos.
 - Programação Generativa: Refere-se à criação de arte ou gráficos que são gerados dinamicamente pelo código. Nesse contexto, o programador define as regras e os parâmetros, e o sistema executa a criação, permitindo resultados inesperados e muitas vezes surpreendentes.
 - Conceitos básicos de programação: Antes de mergulhar na programação criativa, é crucial dominar conceitos básicos como loops, condicionais e funções. Esses elementos são a base para qualquer projeto criativo, permitindo a construção de estruturas complexas e interativas.
