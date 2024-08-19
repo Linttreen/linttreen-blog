@@ -2,7 +2,7 @@
 title: 'Design Thinking no Desenvolvimento de Software: Como a Abordagem Centrada no Usuário Pode Revolucionar Seus Projetos'
 description: 'No contexto do desenvolvimento de software, aplicar os princípios do Design Thinking pode transformar a maneira como os projetos são abordados, resultando em produtos mais alinhados com as expectativas dos usuários e, portanto, mais bem-sucedidos.'
 pubDate: 'Aug 19 2024'
-heroImage: '/post1.jpg'
+heroImage: '/blog-placeholder-1.jpg'
 ---
 
 <h4>Afinal, o que é Design Thinking?</h4>
